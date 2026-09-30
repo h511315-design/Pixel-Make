@@ -1,0 +1,6 @@
+{
+  "name": "PixelCraft 像素畫工坊",
+  "description": "專業好用的線上像素繪圖工具，支援一格一格點選繪製像素、調色盤、對稱模式與多倍率 PNG 圖片匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
